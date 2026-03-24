@@ -1,7 +1,7 @@
 # FICBANK Security Monitoring & Log Analysis
 
 ## Project Files
-- [Security Assessment Report](PASTE_LINK_HERE)
+- [Security Assessment Report](https://github.com/Viney-Washington/ficbank-security-monitoring-analysis/blob/main/Viney%20Washington%20_%20%20FICBANK-Security-Monitoring-Assessment.pdf)
 - [Security Monitoring Data Analysis](https://github.com/Viney-Washington/FICBANK-Security-Monitoring-Data-Analysis/blob/main/FICBANK-Security-Monitoring-Data-Analysis.pdf)
 
 ## Overview
