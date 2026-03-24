@@ -25,3 +25,10 @@ This project analyzes FICBANK web server logs (Access and Apache logs) using Pow
 - Windows PowerShell
 - Log File Analysis
 - Manual Threat Investigation
+
+## Recommendations
+- Implement Web Application Firewall (WAF) to block malicious requests
+- Apply patches to mitigate known vulnerabilities such as Shellshock
+- Monitor and restrict abnormal CONNECT requests to prevent tunneling
+- Strengthen logging and alerting for HTTP errors and suspicious IP activity
+- Implement intrusion detection/prevention systems (IDS/IPS) for real-time monitoring
