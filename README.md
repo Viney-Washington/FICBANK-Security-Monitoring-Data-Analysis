@@ -2,7 +2,7 @@
 
 ## Project Files
 - [Security Assessment Report](PASTE_LINK_HERE)
-- [Security Monitoring Data Analysis](PASTE_LINK_HERE)
+- [Security Monitoring Data Analysis](https://github.com/Viney-Washington/FICBANK-Security-Monitoring-Data-Analysis/blob/main/FICBANK-Security-Monitoring-Data-Analysis.pdf)
 
 ## Overview
 This project analyzes FICBANK web server logs (Access and Apache logs) using PowerShell to identify suspicious activity, detect potential threats, and evaluate the effectiveness of security monitoring controls.
